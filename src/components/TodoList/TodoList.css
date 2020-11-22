@@ -1,0 +1,9 @@
+.todo-list-container {
+    max-width: 800px;
+    text-align: center;
+    padding: 20px 80px;
+    background-color: #e73e3e;
+    color: #ffffff;
+    border-radius: 15px;
+    font-weight: 500;
+}

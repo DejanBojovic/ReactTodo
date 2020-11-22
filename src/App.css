@@ -1,0 +1,9 @@
+body {
+    margin: 200px auto;
+    background-color: #e73e3e;
+    background-image: url("images/pexels-dids-5020995.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
