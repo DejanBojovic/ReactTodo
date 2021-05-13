@@ -26,7 +26,7 @@ class App extends Component {
         },
         {
             id: 4,
-            text: "Take money from Lebowski",
+            text: "Take money from Lebowski!",
             completed: false
         },
       ],
